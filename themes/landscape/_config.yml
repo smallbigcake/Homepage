@@ -12,13 +12,13 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
-- fav
+- weibo
 - category
 - tag
 - tagcloud
 - archive
 - recent_posts
-- weibo
+- fav
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
