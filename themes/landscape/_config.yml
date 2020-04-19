@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-  Trend Micro Job: /trendmicrojob
+  趋势科技内推: /trendmicrojob
 rss: /atom.xml
 
 # Content
@@ -12,11 +12,13 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
+- fav
 - category
 - tag
 - tagcloud
 - archive
 - recent_posts
+- weibo
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
