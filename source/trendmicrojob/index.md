@@ -28,3 +28,5 @@ cake_xu/at/trendmicro.com # 请把 /at/ 替换为 @
 <p>{% link 产品本地化工程师 https://www.smallbigcake.com/trendmicrojob/detail/38 false 产品本地化工程师 %}</p>
 <p>{% link 威胁防御工程师Windows/MacOS https://www.smallbigcake.com/trendmicrojob/detail/39 false 威胁防御工程师Windows/MacOS %}</p>
 <p>{% link 资深运维工具开发工程师 https://www.smallbigcake.com/trendmicrojob/detail/40 false 资深运维工具开发工程师 %}</p>
+<p>{% link 移动威胁响应工程师 https://www.smallbigcake.com/trendmicrojob/detail/41 false 移动威胁响应工程师 %}</p>
+<p>{% link Mobile Threat Researcher/移动安全研究员 https://www.smallbigcake.com/trendmicrojob/detail/42 false Mobile Threat Researcher/移动安全研究员 %}</p>
