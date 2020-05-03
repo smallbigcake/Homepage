@@ -1,1 +1,10 @@
-<%- partial('_partial/archive', {pagination: 2, index: true}) %>
+<%
+for (var i = 0, all_pages = site.pages.data, len = site.pages.length; i < len; i++) {
+    if (all_pages[i].source === "index.md") {
+        var target_page = all_pages[i];
+        break;
+    }
+ }
+%>
+
+<%- partial('_partial/article', {post: target_page, index: false}) %>
