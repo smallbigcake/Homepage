@@ -18,7 +18,7 @@ cake_xu/at/trendmicro.com # 请把 /at/ 替换为 @
 <p>{% link UE/UI 资深设计师 https://www.smallbigcake.com/trendmicrojob/detail/13 false UE/UI 资深设计师 %}</p>
 <p>{% link 资深开发工程师Linux C++ https://www.smallbigcake.com/trendmicrojob/detail/16 false 资深开发工程师Linux C++ %}</p>
 <p>{% link 资深开发工程师Windows/C++ https://www.smallbigcake.com/trendmicrojob/detail/20 false 资深开发工程师Windows/C++ %}</p>
-<p>{% link 资深开发工程师Windows https://www.smallbigcake.com/trendmicrojob/detail/21 false 资深开发工程师Windows %}</p>
+<p>{% link 数据科学家 https://www.smallbigcake.com/trendmicrojob/detail/21 false 数据科学家 %}</p>
 <p>{% link 资深开发工程师Windows https://www.smallbigcake.com/trendmicrojob/detail/23 false 资深开发工程师Windows %}</p>
 <p>{% link 初级软件开发工程师 https://www.smallbigcake.com/trendmicrojob/detail/24 false 初级软件开发工程师 %}</p>
 <p>{% link 资深开发工程师C++ https://www.smallbigcake.com/trendmicrojob/detail/26 false 资深开发工程师C++ %}</p>
