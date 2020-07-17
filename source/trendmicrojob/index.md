@@ -30,7 +30,6 @@ cake_xu/at/trendmicro.com # 请把 /at/ 替换为 @
 <p>{% link 威胁防御工程师Windows/MacOS https://www.smallbigcake.com/trendmicrojob/detail/39 false 威胁防御工程师Windows/MacOS %}</p>
 <p>{% link 移动威胁响应工程师 https://www.smallbigcake.com/trendmicrojob/detail/41 false 移动威胁响应工程师 %}</p>
 <p>{% link Mobile Threat Researcher/移动安全研究员 https://www.smallbigcake.com/trendmicrojob/detail/42 false Mobile Threat Researcher/移动安全研究员 %}</p>
-<p>{% link 资深测试工程师-Mobile XDR https://www.smallbigcake.com/trendmicrojob/detail/43 false 资深测试工程师-Mobile XDR %}</p>
 <p>{% link 资深测试工程师-Diamond Ring https://www.smallbigcake.com/trendmicrojob/detail/44 false 资深测试工程师-Diamond Ring %}</p>
 <p>{% link 移动威胁大数据研发工程师 https://www.smallbigcake.com/trendmicrojob/detail/45 false 移动威胁大数据研发工程师 %}</p>
 
@@ -41,6 +40,7 @@ cake_xu/at/trendmicro.com # 请把 /at/ 替换为 @
 <p>{% link 实习生-软件开发（6个月） https://www.smallbigcake.com/trendmicrojob/detail/intern/5 false 实习生-软件开发（6个月） %}</p>
 <p>{% link 实习生-行政前台（6个月） https://www.smallbigcake.com/trendmicrojob/detail/intern/6 false 实习生-行政前台（6个月） %}</p>
 <p>{% link 实习生-软件测试（6个月） https://www.smallbigcake.com/trendmicrojob/detail/intern/7 false 实习生-软件测试（6个月） %}</p>
-<p>{% link 实习生-MARS 开发 https://www.smallbigcake.com/trendmicrojob/detail/intern/1 false 实习生-MARS 开发 %}</p>
-<p>{% link 实习生-MARS 威胁研究 https://www.smallbigcake.com/trendmicrojob/detail/intern/1 false 实习生-MARS 威胁研究 %}</p>
+<p>{% link 实习生-MARS 开发 https://www.smallbigcake.com/trendmicrojob/detail/intern/8 false 实习生-MARS 开发 %}</p>
+<p>{% link 实习生-MARS 威胁研究 https://www.smallbigcake.com/trendmicrojob/detail/intern/9 false 实习生-MARS 威胁研究 %}</p>
+<p>{% link 实习生-UI/UE https://www.smallbigcake.com/trendmicrojob/detail/intern/10 false 实习生-UI/UE %}</p>
 
